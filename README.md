@@ -33,4 +33,4 @@ With over a decade of experience, I have helped build innovative products, succe
 ### 🌱 Fun Facts  
 - 🌍 I’m a polyglot fluent in 4 programming languages.  
 - 🔐 Blockchain enthusiast since 2015.  
-- 🎯 Goal for 2025: Make YIAHF IT Experts to be famous in web, Blockchain, AI fields.
+- 🎯 Goal: Meet many, many friends.
