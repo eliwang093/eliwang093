@@ -26,9 +26,9 @@ With over a decade of experience, I have helped build innovative products, succe
   🎮 Developed AI-powered game prototypes.  
 
 ### 🌟 Featured Projects  
-- [**DeFi Staking Platform**](#) - A decentralized staking app with yield farming features.  
-- [**React Native Weather App**](#) - A cross-platform app fetching live weather data.  
-- [**NFT Marketplace**](#) - A smart contract-driven platform to mint and trade NFTs.  
+- [**Blockchain Platform**](#) - A decentralized platform that securely records and verifies digital transactions.
+- [**Fantastic Games**](#) - Enjoy fully all over the world.  
+- [**AI**](#) -  Technology that enables machines to learn, think, and make decisions like humans..  
 
 ### 🌱 Fun Facts  
 - 🌍 I’m a polyglot fluent in 4 programming languages.  
