@@ -21,7 +21,7 @@ With over a decade of experience, I have helped build innovative products, succe
   🚀 Designed and launched an ICO, achieving a raise of $5M.  
   📈 Integrated cryptocurrency with major exchanges.
 
-- **YIAHF IT Experts (Current)**  
+- **IT Experts (Current)**  
   🌐 Building innovative blockchain platforms and modern web apps.  
   🎮 Developed AI-powered game prototypes.  
 
