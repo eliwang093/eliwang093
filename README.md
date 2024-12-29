@@ -5,7 +5,7 @@ With over a decade of experience, I have helped build innovative products, succe
 
 - 💻 Web: Expertise in **React**, **Node.js**, and scalable backend systems.  
 - 📱 Mobile: Proficient in developing sleek apps using **Flutter** and **React Native**.  
-- 🛠️ Blockchain: Skilled in **Smart Contracts**, **DeFi**, and crypto exchange integrations.  
+- 🛠️ Blockchain: Skilled in **Smart Contracts**, **Blockchain network**, and crypto exchange integrations.  
 - 🌟 Always exploring **AI**, **game development**, and cutting-edge technologies.
 
 ### 🛠️ Tech Stack  
@@ -13,7 +13,6 @@ With over a decade of experience, I have helped build innovative products, succe
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white&style=flat-square)
 
 ### 💼 Career Highlights  
