@@ -16,7 +16,7 @@ With over a decade of experience, I have helped build innovative products, succe
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white&style=flat-square)
 
 ### 💼 Career Highlights  
-- **MAGECoin (Senior Developer)**  
+- **AltCoins (Senior Developer)**  
   🚀 Designed and launched an ICO, mining.  
   📈 Integrated cryptocurrency with major exchanges.
 
