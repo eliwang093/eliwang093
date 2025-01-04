@@ -17,7 +17,7 @@ With over a decade of experience, I have helped build innovative products, succe
 
 ### 💼 Career Highlights  
 - **MAGECoin (Senior Developer)**  
-  🚀 Designed and launched an ICO, achieving a raise of $5M.  
+  🚀 Designed and launched an ICO, mining.  
   📈 Integrated cryptocurrency with major exchanges.
 
 - **IT Experts (Current)**  
