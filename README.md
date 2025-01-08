@@ -30,6 +30,7 @@ With over a decade of experience, I have helped build innovative products, succe
 - [**AI**](#) -  Technology that enables machines to learn, think, and make decisions like humans..  
 
 ### 🌱 Fun Facts  
-- 🌍 I’m a polyglot fluent in 4 programming languages.  
+- 🌍 I’m a polyglot fluent in 6 programming languages.
+- 🌐 Begin programming since 2010.
 - 🔐 Blockchain enthusiast since 2015.  
 - 🎯 Goal: Meet many, many friends.
